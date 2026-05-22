@@ -1,3 +1,6 @@
+<img width="1365" height="705" alt="image" src="https://github.com/user-attachments/assets/22aabfd8-e357-4732-8ba3-75f45ec37e1b" />
+
+
 # ✂ video-clipper
 
 A fast, free desktop app that cuts multiple clips from any video — no watermark, no internet, no subscription.
